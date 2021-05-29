@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Seena Chacko
-I am a strongly motivated professional programmer with strong in design and problem-solving skills.  I am really passionate about software programming and designing. I have good knowledge in HTML5, CSS3, JavaScript, React Nodejs, Expressjs, Knex.js, databases like MySQL and MongoDB .
+I am a strongly motivated professional programmer with strong in design and problem-solving skills and really passionate about software programming and designing. I have good knowledge in HTML5, CSS3, JavaScript, React Nodejs, Expressjs, Knex.js, databases like MySQL and MongoDB .
 Now I am looking for Web Developer role to take next step in my career.
 
 🌱 I’m currently learning  Full Stack Web Developing  at <a href="https://www.hackyourfuture.dk/"> HackyourFuture Copenhagen</a> coding institue.
