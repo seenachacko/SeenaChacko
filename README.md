@@ -2,11 +2,13 @@
 I am a strongly motivated professional programmer with strong in design and problem-solving skills.  I am really passionate about software programming and designing. I have good knowledge in HTML5, CSS3, JavaScript, React Nodejs, Expressjs, Knex.js, databases like MySQL and MongoDB .
 Now I am looking for Web Developer role to take next step in my career.
 
+🌱 I’m currently learning  Full Stack Web Developing  at <a href="https://www.hackyourfuture.dk/"> HackyourFuture Copenhagen</a>
+📫 How to reach me: seenachacko119@gmail.com;
 <!--
 **seenachacko/SeenaChacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
