@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Seena Chacko
-<a href="https://www.linkedin.com/in/seena-chacko-017022187/"><img src="https://www.kystognaturturisme.dk/sites/kystognaturturisme.com/files/styles/article_teaser/public/2020-12/linkedInLogo.png?h=ec041e41&itok=aQ7rdd-X" width="30px" height="30px"></a>
+<a href="https://www.linkedin.com/in/seena-chacko-017022187/"><img src="https://www.shareicon.net/data/2017/06/28/888041_logo_512x512.png" width="30px" height="30px"></a>
 
 I am a strongly motivated professional programmer with strong in design and problem-solving skills and really passionate about software programming and designing. I have good knowledge in HTML5, CSS3, JavaScript, React Nodejs, Expressjs, Knex.js, databases like MySQL and MongoDB .
 Now I am looking for Web Developer role to take next step in my career.
