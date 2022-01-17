@@ -6,7 +6,7 @@ Now I am looking for Web Developer role to take next step in my career.
 
 <b>Talking about Personal Stuffs:</b>
 
-🌱 I’m graduated from <a href="https://www.hackyourfuture.dk/"> HackyourFuture Copenhagen</a> coding institue in <b> Full-Stack Development </b>on 2021 September.
+🌱 I’m graduated from <a href="https://www.hackyourfuture.dk/"> HackyourFuture Copenhagen</a> coding institue in <b> Full-Stack Development </b>(9 months coding program)on 2021 September.
 
 📫 How to reach me: seenachacko119@gmail.com;
 
